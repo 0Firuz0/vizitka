@@ -1,0 +1,12 @@
+.skills {
+
+}
+.skills-list {
+display: flex;
+column-gap: 15px;
+}
+.skills-list__item {
+    border: 6px solid wheat;
+    border-radius: 8px;
+    background-color: wheat;
+}
